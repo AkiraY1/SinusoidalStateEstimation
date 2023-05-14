@@ -17,7 +17,7 @@ The Kalman Filter is an algorithm that can be used to estimate the state of a sy
 
 I used a Raspberry Pi and small accelerometer and placed them on a glider that can run on an air track (see the picture below). I conncted my laptop wirelessly to the RPi.
 
-![Experimental Apparatus](http://url/to/img.png)
+![Experimental Apparatus](https://github.com/AkiraY1/SinusoidalStateEstimation/blob/main/Media/InitialIdeaPhoto.jpg?raw=true)
 
 The glider apparatus slid along the air track and recorded its acceleration, from which I calculated the velocity and displacement in real time (see the file "collision_sim.py").
 
