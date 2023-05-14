@@ -11,7 +11,7 @@ Creating algorithms to accurately and efficiently remove unwanted noise and unco
 
 ## The Kalman Filter
 
-The Kalman Filter is an algorithm that can be used to estimate the state of a system and remove noise in the process. NASA began using the Kalman Filter in the '60s, and they continue still do to this day. As part of this project, I wanted to explore how the filter functions and what problems it may have.
+The Kalman Filter is an algorithm that can be used to estimate the state of a system and remove noise in the process. NASA began using the Kalman Filter in the '60s, and they continue to do so to this day. As part of this project, I wanted to explore how the filter functions and what problems it may have.
 
 ## Experimenting
 
