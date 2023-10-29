@@ -26,9 +26,3 @@ From this experiment I was able to implement the Kalman Filter to calculating th
 ## The Problem and Solution
 
 After lots of experimentating, thinking and researching, I was able to come up with problems that the Kalman Filter inherently has and ideas to fix them. In the end I created my own filter based on the autocorrelation function to improve upon the Kalman Filter (it kind of worked).
-
-I can't upload any of my work (writing, math or results) until my work is graded by the IB.
-
-## Disclaimer (to the IB)
-
-I, Akira Yoshiyama, am the one writing this. I am uploading my simulation code on Github to safekeep it (in case my laptop breaks again). See the commit history, this repository was created long after I uploaded my EE to IBIS.
